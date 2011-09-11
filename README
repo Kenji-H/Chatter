@@ -1,0 +1,8 @@
+A chat app by Java socket programming
+
+1. How to start?
+[Server] java -jar chatter.jar :port
+[Client] java -jar chatter.jar :host :port
+
+2. How to end?
+put "bye" to command line. (quotes is just for clearity.)
